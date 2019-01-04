@@ -1,12 +1,9 @@
 ---
-author: pokesqueak
-comments: true
 date: 2016-03-25 12:12:33+00:00
 layout: post
-link: http://aliceismoving.home.blog/2016/03/25/social-history-society-conference-lancaster/
-slug: social-history-society-conference-lancaster
 title: Social History Society Conference, Lancaster University, 21st-23rd March 2016
-wordpress_id: 45
+category: phd-archive
+excerpt: "This week I made my annual trek to the Social History Society Conference, which has become a highlight in my calendar."
 ---
 
 This week I made my annual trek to the Social History Society Conference, which has become a highlight in my calendar.  I always look forward to two and a half days of interesting talks and friendly people, as well as the chance to visit a new place, and this year the conference excelled itself.  I spoke on two panels (a ‘traditional’ paper for one, and helping lead a discussion for the other other), and chaired two.  As I had to miss the first panel due to travelling up, I only had ‘free choice’ for two panels, but that did cut down on some potentially difficult decision-making!  There are often loads of panels on at once that I’d like to go to, and I always wish I had Hermione’s time-turner so I could see everyone I wanted to.
@@ -24,42 +21,45 @@ I was also really interested in Philippa Lewis’ paper, ‘Embodying emotions: 
 As the University of Lancaster is a campus university, I didn’t get to see very much of Lancaster itself; the last couple of years I was in city centres so it was easier to explore.  The campus was really nice, though.  Although it was basic, as to be expected, I liked my room in the halls (once I found it), and it was very convenient both for the buildings where the conference was held and the venue for the conference meals.  The food was better than the last two years - especially the cream cakes and desserts!  I talked to lots of people, including my undergraduate tutor, who I hadn’t seen for years!  I think interacting with lots of historians on Twitter, and having met so many people at previous conferences, has really benefitted me, as I’m no longer sitting around awkwardly at lunchtime or coming out of dinner/the conference itself thinking that I didn’t really talk to anyone.  I would love to keep going to conferences, especially SHS, despite no longer being in academia - I look forward to this conference every year, and it never disappoints.  
 
 
-![](https://66.media.tumblr.com/543cc5e59f30475a4f98ed7372cca116/tumblr_inline_o4lgqcF63g1s70b7a_540.jpg)
+![Assorted Social History Society conference paraphernalia](/images/social-history-society-conference-2016.jpg)
 
-Assorted conference paraphernalia.  
+## Panels I attended
 
+### Life Cycles, Families & Communities: Family Relations
 
-**Panels I attended:**
+* Lisa Dallavelle: Evolving Family Relations: Family Dynamics in the Dering Family (1625-1684)  
+* Maria Cannon: ‘All are understood by the name of Parents, under whose government we live’: Authority, emotion and ‘natural parenting’ in early modern England  
+* Yvonne McFadden: ‘You had to do your baking’: Social Life in Suburban Glasgow, 1945-1975  
+* Me: ‘Though an only child, I had plenty of playmates in neighbouring houses’: The Pre-School Friendships of Only Children, c. 1850-1950
 
-**Life Cycles, Families & Communities: Family Relations:  
-**Lisa Dallavelle: Evolving Family Relations: Family Dynamics in the Dering Family (1625-1684)  
-Maria Cannon: ‘All are understood by the name of Parents, under whose government we live’: Authority, emotion and ‘natural parenting’ in early modern England  
-Yvonne McFadden: ‘You had to do your baking’: Social Life in Suburban Glasgow, 1945-1975  
-Me: ‘Though an only child, I had plenty of playmates in neighbouring houses’: The Pre-School Friendships of Only Children, c. 1850-1950
+### Plenary Lecture:  
 
-**Plenary Lecture:  
-**Professor Steve Hindle: Space, Community and Ecomomy in Early Modern Rural England’
+Professor Steve Hindle: Space, Community and Ecomomy in Early Modern Rural England’
 
-**Life Cycles, Families & Communities: Coping with Ageing and Dying in Twentieth-Century Britain:**  
-James Stark: The Age of Youth: Everyday Rejuvination in Interwar Britain  
-Laura Tisdall: Ageing relationally: schoolteachers’ experience of ageing in England, c.1970 to the present day  
-Laura King: Ways of remembering: family archives, coping with dying and creating history in Britain, c.1900-50
+### Life Cycles, Families & Communities: Coping with Ageing and Dying in Twentieth-Century Britain:**  
 
-**Life Cycles, Families & Communities: Military, Embassy and Health (I chaired):  
-**Evan Wilson: ‘You cannot be a good officer without being a Gentleman’: Naval Officers in Eighteenth-Century Europe  
-Catherine Beck: ‘Excuse the anxiety of a father’: parenthood and patronage in the Royal Navy 1771-1807  
-Niki Alsford: ‘Connected Histories’: The Asian-American Experience in the American Civil War 1861-65, the Case of the Bunker Family  
-Carol Beardmore: Building a Rural Practice: Doctoring in the Community
+* James Stark: The Age of Youth: Everyday Rejuvination in Interwar Britain  
+* Laura Tisdall: Ageing relationally: schoolteachers’ experience of ageing in England, c.1970 to the present day  
+* Laura King: Ways of remembering: family archives, coping with dying and creating history in Britain, c.1900-50
 
-**Open Strand: New Directions in Social History: Storying The Past disucssion: Alison Light’s Common People  
-**Helen Rogers, Simon Briercliffe and me in the room, Will Pooley and Alison Twells on Twitter - will blog about this next week!
+### Life Cycles, Families & Communities: Military, Embassy and Health (I chaired):  
 
-**Life Cycles, Families & Communities: Children, Women, and Welfare (I chaired):  
-**Leah Astbury: Being pregnant in public in seventeenth-century England  
-Ruth Easingwood: On being a High School girl: working class desires and self-realization in post war Britain  
-Lucy Brown: Cultures of Welfare: Community Arts and the Welfare State in Scotland c.1962-1990
+* Evan Wilson: ‘You cannot be a good officer without being a Gentleman’: Naval Officers in Eighteenth-Century Europe  
+* Catherine Beck: ‘Excuse the anxiety of a father’: parenthood and patronage in the Royal Navy 1771-1807  
+* Niki Alsford: ‘Connected Histories’: The Asian-American Experience in the American Civil War 1861-65, the Case of the Bunker Family  
+* Carol Beardmore: Building a Rural Practice: Doctoring in the Community
 
-**Self, Senses & Emotions: Science, subjectivity and emotions in the nineteenth century:  
-**Philippa Lewis: Embodying emotions: the history of timidity in fin-de-siècle France  
-Sonsoles Hernández: Debate in synaesthesia: Controversies around the senses in fin de siècle culture  
+## Open Strand: New Directions in Social History: Storying The Past discussion: Alison Light’s Common People  
 
+Helen Rogers, Simon Briercliffe and me in the room, Will Pooley and Alison Twells on Twitter - will [blog about this next week](/phd-archive/storypast-common-people-by-alison-light/)!
+
+## Life Cycles, Families & Communities: Children, Women, and Welfare (I chaired):  
+
+* Leah Astbury: Being pregnant in public in seventeenth-century England  
+* Ruth Easingwood: On being a High School girl: working class desires and self-realization in post war Britain  
+* Lucy Brown: Cultures of Welfare: Community Arts and the Welfare State in Scotland c.1962-1990
+
+## Self, Senses & Emotions: Science, subjectivity and emotions in the nineteenth century:  
+
+* Philippa Lewis: Embodying emotions: the history of timidity in fin-de-siècle France  
+* Sonsoles Hernández: Debate in synaesthesia: Controversies around the senses in fin de siècle culture  

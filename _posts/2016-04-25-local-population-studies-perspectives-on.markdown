@@ -1,13 +1,10 @@
 ---
-author: pokesqueak
-comments: true
 date: 2016-04-25 09:58:15+00:00
 layout: post
-link: http://aliceismoving.home.blog/2016/04/25/local-population-studies-perspectives-on/
-slug: local-population-studies-perspectives-on
-title: Local Population Studies ‘Perspectives on Childhood and Youth’ Conference,
-  Rewley House, Oxford, 23rd April 2016
-wordpress_id: 41
+title: "Local Population Studies ‘Perspectives on Childhood and Youth’ Conference,
+  Rewley House, Oxford, 23rd April 2016"
+category: phd-archive
+excerpt: "On Saturday, I spoke and listened at the above conference.  All the papers (hopefully including mine!) were really interesting."
 ---
 
 On Saturday, I spoke and listened at the above conference.  All the papers (hopefully including mine!) were really interesting.  I learned some new things, caught up with some people and made new connections, and experienced the usual research envy!
@@ -18,13 +15,10 @@ I was second - I gave the paper I was complaining about writing last week.  I t
 
 Next up was Helena Mills, who talked about place, experience, and memory of youth in the ‘swinging 60s’.  Mills’ work questions the image of 60s’ youth culture as a homogenous entity, instead arguing that the extent to which an individual experienced it depended on where they lived, what work they did/was available to them, and their gender.  For example, in places like Liverpool, there were coffee bars, cinemas, and places to go dancing, whereas in Barrow there was the church hall and that was about it.  Your ability to go out depended on public transport - whether it was decent and whether you could afford it, and if you were a girl, you might also be restricted by parents worried for your safety.  The commerical spaces young people utilised had different meanings; a particularly prestigious place was ‘the best place to be’, men and women experienced and used clubs differently, and youth spaces were seen as somewhere to relax and be noisy away from the adult gaze.  Over the course of the decade, young people’s opportunities to travel also expanded, so place and space were by no means static.   Mills’ research is really interesting and I did get some thesis envy!
 
-After lunch, we heard Eric Schneider talk his ongoing longitudinal study of children’s growth on the training ship _Indefatigable_.  Basically, there was a sudden shift in children’s heights at certain ages in around 1910, though we don’t totally know why yet.  It was also around this time that pubertal growth spurts became a major thing.  Possible reasons that Schneider is going to investigate are infant mortality decline, improvements to home environments and sanitation, morbidity, and family size.  I’m really not a quantitative researcher, so it was really interesting to see what statistics are out there, and what can be done with them.
+After lunch, we heard Eric Schneider talk his ongoing longitudinal study of children’s growth on the training ship *Indefatigable*.  Basically, there was a sudden shift in children’s heights at certain ages in around 1910, though we don’t totally know why yet.  It was also around this time that pubertal growth spurts became a major thing.  Possible reasons that Schneider is going to investigate are infant mortality decline, improvements to home environments and sanitation, morbidity, and family size.  I’m really not a quantitative researcher, so it was really interesting to see what statistics are out there, and what can be done with them.
 
 Next we had Heather Shore, talking about boys who were sent to reformatory and industrial schools because they had either been convicted of a crime, or seen as delinquent for some other reason, such as truancy.  She followed the life courses of 400 children from four schools.  Most of them had been sent to such schools for property offences, with public order offences coming second.  I was interested to hear that although 22% re-offended at some point in their lives (again, usually property or public order offences), only 4.1% became habitual offenders, and they generally had ‘steady, unremarkable’ lives.  I guess this means these harsh schools were, on the whole, pretty successful!
 
 The last paper of the day was given by Maria Marven, on Metropolitan children’s reponses to children’s convalescent homes between 1935 and 1960.  Separation was often traumatic for convalescent children, their parents, and their siblings, especially if the convalescent sibling had ‘mothered’ younger siblings.  Returning to the home was often difficult too, as returnees found it hard to rediscover their place in the family, and that they had missed out on events and developments they would not be able to catch up on.  There was also some variation in experiences.  Marven found that after the Second World War, parents did far more to prepare their children for going into a convalescent home, with parents prior to the War not being as open about it.  This seems to fit the idea that parents became more tender during this period.  Another variation was that some people saw their stay in a convalescent home as a formative experience, whereas others forgot about it more easily.
 
-It was a fascinating day that gave me a lot to think about.  It was good to hear about other research that shows how different variables resulted in different individual experiences, which was a major theme that came out of the conference.  It was also great to catch up with some history of childhood people I’ve met at other conferences and chat to on Twitter between them.  I always like going to Oxford, too - I’ve been there enough times that I’m confident staying on my own there and finding my way around.  
-
-
-![image](https://66.media.tumblr.com/689602dbaa57b72f763d42dabf72645d/tumblr_inline_o66p0bQFIs1s70b7a_540.jpg)
+It was a fascinating day that gave me a lot to think about.  It was good to hear about other research that shows how different variables resulted in different individual experiences, which was a major theme that came out of the conference.  It was also great to catch up with some history of childhood people I’ve met at other conferences and chat to on Twitter between them.  I always like going to Oxford, too - I’ve been there enough times that I’m confident staying on my own there and finding my way around.

@@ -1,12 +1,9 @@
 ---
-author: pokesqueak
-comments: true
 date: 2016-04-29 10:37:30+00:00
 layout: post
-link: http://aliceismoving.home.blog/2016/04/29/the-end-is-in-sight/
-slug: the-end-is-in-sight
 title: The End is in Sight!
-wordpress_id: 40
+category: phd-archive
+excerpt: "Got my full draft back on Tuesday.  No nasty surprises!"
 ---
 
 Got my full draft back on Tuesday.  No nasty surprises!  For the most part, it’s fine, no majorly hard things to do.  The plan is to submit at the end of term.  I think I could well be finished before then, but it would be good to have the time to not look at my thesis for a week or so and come back to it fresh.  Also, I have 17 document analyses and 23 exam papers to mark in the next few weeks as well.
@@ -19,5 +16,3 @@ I still have to write my conclusion.  I had a go at it before but it didn’t r
 The most finicky thing I have to do is altering references - both to different factors in the thesis, and footnotes where I’ve deleted the full reference along with the chapter I’ve taken out.  Some of the chapter numbers have changed, as it turns out the literature review should have a chapter number, and I’ve taken out what was originally Chapter Three.  Also, ‘Spoiling and Strictness’ is now ‘Intensive Parenting’.  It’s so important that I don’t refer to people without the correct information, or signpost the wrong chapter, or use a short title when I need a long one - and it’s so easy to overlook something like that!  And, of course, whenever I delete or add something substantial, my spacing and footnotes can get messed up, with tables ending up across two pages and ‘ibids’ where there shouldn’t be ‘ibids’.  A minor victory, though - I now know how to make each chapter a ‘section’ in Word, and start the footnotes from one in each chapter.  Much better than having nearly 2,000 footnotes!  I prefer to have everything in one document, so that I’m always aware of the total word count.  And it would probably be more annoying to work out how to start documents on a page number other than one, and have to keep changing the numbers as other chapters expanded/contracted.  Once again, fussy details are really important.
 
 Okay, so writing it out like this makes it seem like I have a lot to do, but considering I’ve already fixed my introduction and literature review since Tuesday, I don’t think it’s going to be that bad.  It could certainly be a lot worse.  And once all that’s done, I need to get my conclusion checked, and sort out the frontispiece, acknowledgements, contents, and list of tables.  It shouldn’t be long before I put in my intention to submit.  Eek!
-
-![](https://66.media.tumblr.com/1ccd985007cc92b2390998144dfb139a/tumblr_inline_o6e5fjNbUu1s70b7a_540.png)
