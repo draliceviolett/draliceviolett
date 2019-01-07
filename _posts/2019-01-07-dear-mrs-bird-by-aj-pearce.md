@@ -1,7 +1,7 @@
 ---
 date: 2019-01-07
 layout: post
-title: "Review: <cite>Dear Mrs Bird</cite>, by AJ Pearce"
+title: "Review: Dear Mrs Bird, by AJ Pearce"
 category: book-blog
 excerpt: "It has to be a good sign when your first read of the year gets five stars, right?"
 ---
