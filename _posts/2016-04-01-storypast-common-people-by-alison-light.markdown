@@ -2,7 +2,7 @@
 date: 2016-04-01 10:44:51+00:00
 layout: post
 title: '#storypast: Common People, by Alison Light'
-category: phd-archive
+category: ["phd-archive", "book-blog"]
 excerpt: "As promised last week, this week’s blog is about the ‘Storying the Past’ session me, Helen Rogers, and Simon Briercliffe ran at the Social History Society conference, concurrently with a Twitter conversation."
 ---
 
