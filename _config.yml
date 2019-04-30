@@ -8,7 +8,7 @@
 # Site settings
 title: Dr Alice Violett
 email: star.beneath.the.stairs@gmail.com
-description: Book witterings and PhD archive
+description: Book thoughts and PhD archive
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.draliceviolett.com" # the base hostname & protocol for your site
 twitter_username: alicetheunique
