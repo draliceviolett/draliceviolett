@@ -1,5 +1,5 @@
 ---
-date: 2019-06-01
+date: 2019-05-31
 layout: post
 title: "What I read in May 2019"
 category: book-blog
@@ -34,15 +34,13 @@ I'm noticing some definite themes in the kinds of books I pick up: smart and unc
 
 <cite>The Rotters' Club</cite>, by Jonathan Coe - 4*
 
-![Lowborn, Wakenhyrst, The Dream Thieves, The Furies](/images/may-collage-3.jpg)
+![Lowborn, Wakenhyrst, The Dream Thieves](/images/may-collage-3.jpg)
 
 <cite>Lowborn</cite>, by Kerry Hudson - 4.5*
 
 <cite>Wakenhyrst</cite>, by Michelle Paver - 4.5*
 
 <cite>The Dream Thieves</cite>, by Maggie Stiefvater - 4.5*
-
-<cite>The Furies</cite>, by Katie Lowe -
 
 ## Looking ahead...
 
