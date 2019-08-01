@@ -32,7 +32,7 @@ I wasn't expecting ancient Welsh king Glendower (or his poet, Iolo) to be such a
 
 <cite>The Poison Garden</cite>, by Alex Marwood - 4.5*
 
-<cite>The Room of the Dead</cite>, by M. R. C. Kasasian - 5*
+<cite>The Room of the Dead</cite>, by M. R. C. Kasasian - 4.5*
 
 ## Looking ahead...
 
