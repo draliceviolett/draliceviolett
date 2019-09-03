@@ -10,7 +10,7 @@ September is my favourite month because (paradoxically, considering the leaves b
 
 It could be that because I spent so long in education, I just can't shake off those old September vibes. Maybe it's because a couple of my friends are starting jobs that are more or less exactly what they want and I'm getting a vicarious thrill. Perhaps I'm just excited to go on a (mini) holiday for the first time in yonks. Or I could just be looking forward to all the new books that are coming through!
 
-I didn't review any books in August, but [I did review a film](/phd-archive/2019/08/04/a-few-thoughts-on-three-identical-strangers/), but a book blog post is coming! I've written notes, so it has to happen.
+I didn't review any books in August, but [I did review a film](/phd-archive/2019/08/04/a-few-thoughts-on-three-identical-strangers/), but a book blog post is coming soon. I've written notes, so it has to happen.
 
 ![The Closed Circle, Bellman & Black, Blacklands, Alex in Wonderland](/images/august-collage-1.jpg)
 
@@ -32,9 +32,9 @@ I didn't review any books in August, but [I did review a film](/phd-archive/2019
 
 <cite>The Sea, The Sea</cite>, by Iris Murdoch. I wanted to like it more, as the writing is good and there are some interesting insights into human nature, but reading through metaphorical splayed fingers (you can hardly bear to 'watch' the main character most of the time) wears a bit thin over 500+ pages - 3*
 
-![10 Minutes 38 Seconds in this Strange World, How the Dead Speak, An Orchestra of Minorities, A Rare Interest in Corpses, The Turn of the Key](/images/august-collage-3.jpg)
+![10 Minutes 38 Seconds in This Strange World, How the Dead Speak, An Orchestra of Minorities, A Rare Interest in Corpses, The Turn of the Key](/images/august-collage-3.jpg)
 
-<cite>10 Minutes 38 Seconds in this Strange World</cite>, by Elif Shafak - 4.5*
+<cite>10 Minutes 38 Seconds in This Strange World</cite>, by Elif Shafak - 4.5*
 
 <cite>How the Dead Speak</cite>, by Val McDermid - 4.5*
 
