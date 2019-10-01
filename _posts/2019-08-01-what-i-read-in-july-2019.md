@@ -16,7 +16,7 @@ I wasn't expecting ancient Welsh king Glendower (or his poet, Iolo) to be such a
 
 <cite>Crooked Kingdom</cite>, by Leigh Bardugo - 4.5*
 
-<cite>The Herb of Grace</cite>, by Elizabeth Goudge - 4*
+[<cite>The Herb of Grace</cite>, by Elizabeth Goudge](/book-blog/2019/09/08/the-eliot-chronicles-by-elizabeth-goudge) - 4*
 
 <cite>Tick Tock</cite>, by Mel Sherratt - 4*
 

@@ -20,7 +20,7 @@ I'm noticing some definite themes in the kinds of books I pick up: smart and unc
 
 [<cite>All Among the Barley</cite>, by Melissa Harrison](/book-blog/2019/05/08/all-among-the-barley-by-melissa-harrison/) - 4.5*
 
-<cite>The Bird in the Tree</cite>, by Elizabeth Goudge - 4*
+[<cite>The Bird in the Tree</cite>, by Elizabeth Goudge](/book-blog/2019/09/08/the-eliot-chronicles-by-elizabeth-goudge) - 4*
 
 ![Finders Keepers, The Ghost Tree, Hell Bay, Pulp, The Rotters' Club](/images/may-collage-2.jpg)
 
