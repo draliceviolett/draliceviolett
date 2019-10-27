@@ -42,7 +42,7 @@ I'm currently just over 100 pages into <cite>Once Upon a River</cite> by Diane S
 
 <cite>Death Sentences</cite>, by Otto Penzler (ed.). Some absolute corkers of book-related short crime stories - John Connolly's contribution is a particular winner. Wish they'd left out the Joyce Carol Oates sample after her short story, though, as it was completely unrelated to the theme and confused me after the ambiguous ending of her tale - 4.5*
 
-<cite>My Name Is Why</cite>, by Lemn Sissay. An absorbing, shocking and heartbreaking account of the acclaimed poet's experiences of growing up in care while black. Despite everything, kindness and hope shine through. The writer's decision to make heavy use of official documents and stop the account as soon as he came out of the system at 18 left the historian of childhood in me wanting more, though. I plan to write a fuller review soon! - 4*
+[<cite>My Name Is Why</cite>, by Lemn Sissay](/book-blog/2019/10/27/my-name-is-why-by-lemn-sissay/) - 4*
 
 ## Looking ahead...
 
