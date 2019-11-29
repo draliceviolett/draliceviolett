@@ -1,0 +1,25 @@
+---
+date: 2019-11-29
+layout: post
+title: "Review: Confessions of a Bookseller, by Shaun Bythell"
+category: book-blog
+excerpt: "<cite>Confessions of a Bookseller</cite> is interesting and humorous, and shows that bibliophiles aren't necessarily a solitary bunch."
+---
+
+![Confessions of a Bookseller](/images/confessions-of-a-bookseller.jpg)
+
+I have my own bookselling confession to make: seemingly unlike most bookworms, I've never harboured a desire to own, manage, or work in a bookshop. I've spent far too many years in retail to romanticise it. Lovingly curating a collection of books to sell, or happening upon some particularly interesting second-hand titles? Sure. Dealing with those members of the public who are rude, try to haggle, say they can buy the books cheaper on Amazon, don't control their children, or hang around reading for hours without making a purchase? Sitting through slow days where nobody comes in and you worry you won't make the rent? I'm not tempted to leave my not-overly-public-facing office job.
+
+And yet, I love reading about life in the book trade. This year I've really enjoyed [<cite>The Thirteenth Tale</cite>, by Diane Setterfield](/book-blog/2019/04/07/the-thirteenth-tale-by-diane-setterfield/), <cite>Death Sentences</cite>, a collection of book-themed short crime stories edited by Otto Penzler, and Shaun Bythell's first book, <cite>Diary of a Bookseller</cite>. In the second instalment of Bythell's diaries, <cite>Confessions of a Bookseller</cite>, he really hits his stride as he takes us through another year at The Bookshop, Wigtown.
+
+We're reunited with familiar characters - Nicky, Flo, Adrian, Sandy the tattooed pagan, and Captain the cat to name a few - and meet new ones, most memorably Emanuela, an endearing young Italian woman who comes to Scotland to work in the shop for a few months, improving her fluency in English profanities and earning the nickname 'Granny' due to her numerous ailments. I really missed her after she went home, but fortunately she kept in touch with her erstwhile colleagues!
+
+Those who have read <cite>Diary of a Bookseller</cite> will also already be familiar with the rhythms of The Bookshop's year - sluggish during the winter months, and buzzing during summer and the Wigtown Book Festival in October. They'll also be aware of what Bythell and the other staff do most of the time, but there are always new stories stemming from their everyday work.
+
+I particularly enjoyed Bythell's interesting and amusing asides about some of the books (and their authors) that he put up for sale, his opinions on his current read, and his extracts from, and commentary on, Augustus Muir's <cite>The Intimate Thoughts of John Baxter, Bookseller</cite> (1942) which preface each month's diary entries. And his descriptions of customers and the things they come out with are hilarious - some may find them a little harsh but trust me, when you work in retail, it's a coping mechanism, and you *do* wonder what some of your less forthcoming regulars' stories are.
+
+What really struck me, though, is that while Bythell describes himself as a misanthrope, his home (incorporating the shop) often seems to be a hive of activity, and he's very much a part of the life of Scotland's National Book Town. Book Festival organisers and other friends seem to crash at his place quite regularly, and he meets and gets to know visitors to the town (such as the people from all over the world who come to fulfil that bookselling fantasy by running another bookshop, The Open Book, for a couple of weeks at a time), often staying up chatting until the early hours. During the festival itself, The Bookshop hosts author events and space for a pop-up restaurant and wine bar. Wigtown may be dreich during the winter months, but it sounds like a lively cultural hotspot that has led me to re-evaluate my feelings about (some...) small towns!
+
+That leads me to something a lot of people get wrong about bookish types - that we're solitary creatures who don't talk a lot. Well, last week I was invited, through Twitter, to a pre-launch dinner for Lesley Kara's new book, <cite>Who Did You Tell?</cite> (which I'll be reviewing closer to its January release date). I was a bit apprehensive about going - my previous experiences of going out for a meal with a bunch of people I don't know haven't exactly been encouraging - but I'm so glad I did.
+
+When you're all into books, there's no danger of running out of things to say, or death by small talk. You can just talk about the last book you read/reviewed/gave five stars, or your TBR pile, or your favourite book/author/genre, or any number of book-related subjects, and you don't have to worry that you're boring the other people because they're as enthusiastic about books, and excited to talk about them at length, as you are. I had an amazing evening and hope there are more like it to come. And if that's what it's like in Wigtown during the festival, I may have to go there one day. I might even risk incurring an unflattering description in a future volume of Shaun Bythell's diaries!
