@@ -6,7 +6,7 @@ category: book-blog
 excerpt: "<cite>Who Did You Tell</cite> is a compelling story of recovery laced with menace."
 ---
 
-![Who Did You Tell](/images/who-did-you-tell.jpg)
+![Who Did You Tell?](/images/who-did-you-tell.jpg)
 
 *I received a free advance copy of this book from Alison Barrow from Transworld at a pre-launch dinner for Colchester book-lovers (you can read more about this in [my review of <cite>Confessions of a Bookseller</cite>, by Shaun Bythell](/book-blog/2019/11/29/confessions-of-a-bookseller-by-shaun-bythell)). The opinions expressed in this post are entirely my own.*
 
