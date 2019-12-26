@@ -24,4 +24,8 @@ I loved the level of detail Lesley included about Astrid's paints and tools, and
 
 This sympathy put me in quite a difficult position when Astrid's past misdemeanour was revealed. On the one hand, though following her first-person account, I felt like I 'knew' it wasn't something she would do if she was in her right mind, and that she was truly remorseful and trying to become a better person. On the other, she seemed to have done an awful thing, and only her tormentor was stopping her totally getting away with it. Like <cite>The Rumour</cite>, which poses dilemmas about the treatment of child-killers once they've done their time and grown up, there are no easy answers - Lesley's books may be easy to read, but that doesn't mean they don't challenge you!
 
+![The book Who Did You Tell? being used as a pillow by a black and white cat](/images/who-did-you-tell-2.jpg)
+
+*Toby also enjoyed <cite>Who Did You Tell?</cite> because it is a very comfortable pillow*
+
 <cite>Who Did You Tell?</cite> is quick and pacey, with an unsettling sense of menace throughout, great descriptions, and fully-realised characters. It's hard to say much about the plot without spoiling it, but let's just say that nothing is quite what it seems, and when you think something has been resolved, Lesley turns it completely on its head and makes you think again!
